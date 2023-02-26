@@ -14,7 +14,7 @@ function Header() {
                        <div className="col-12">
                            <div className="title d-flex">
                                <div className="justify-content-center align-self-center w-100">
-                                   <div className="big-title text-center">Your one stop place for all your vaction needs</div>
+                                   <div className="big-title text-center">Your one stop place for all your vacation needs</div>
                                    <div className="title-desc text-center">
                                       We have the best hotels and destinations for all your holiday needs. <br/>
                                        Your comfort and luxury is our priority.                                
